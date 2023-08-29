@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sunil Swain Blog</title>
+    <link>https://sunil-collab.github.io/posts/</link>
+    <description>Recent content in Posts on Sunil Swain Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Aug 2023 12:41:33 +0530</lastBuildDate><atom:link href="https://sunil-collab.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Myblog1</title>
+      <link>https://sunil-collab.github.io/posts/myblog1/</link>
+      <pubDate>Tue, 29 Aug 2023 12:41:33 +0530</pubDate>
+      
+      <guid>https://sunil-collab.github.io/posts/myblog1/</guid>
+      <description>Ahoy Comrades! Step1) I made a public repo to create my website with github pages Step2) Then i install Hugo Step3) Then i did some quickstart guide from Hugo to get familiarise how to create a site in hugo and put theme title. Step4) Then i created another repo named Hugo-blog where there is the actual code and we are iterating all our posts and all from. Step5) Then created new site by using hugo new site sitename Step6) Selected a theme from hugo and applied it Step7)edited the baseURL title and theme using gedit in hugo.</description>
+    </item>
+    
+  </channel>
+</rss>
